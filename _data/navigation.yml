@@ -1,9 +1,9 @@
 main:
   - title: "Artwork"
     url: /artwork/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Project"
+    url: /project/
+  - title: "Experience"
+    url: /experience/
   - title: "About"
     url: /about/
