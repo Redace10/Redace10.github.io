@@ -172,6 +172,104 @@ gallery:
     image_path: /assets/artwork/grade_9/pov_building.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
+
+    # grade 10
+  - url: /assets/artwork/grade_10/slogan_idea.png
+    image_path: /assets/artwork/grade_10/slogan_idea.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_10/slogan.png
+    image_path: /assets/artwork/grade_10/slogan.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_10/outside_school.png
+    image_path: /assets/artwork/grade_10/outside_school.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_10/plant.png
+    image_path: /assets/artwork/grade_10/plant.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_10/still_alive.png
+    image_path: /assets/artwork/grade_10/still_alive.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_10/puzzle.png
+    image_path: /assets/artwork/grade_10/puzzle.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_10/eureka.png
+    image_path: /assets/artwork/grade_10/eureka.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_10/gothic.png
+    image_path: /assets/artwork/grade_10/gothic.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_10/gothic_2.png
+    image_path: /assets/artwork/grade_10/gothic_2.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
+    # grade 11
+  - url: /assets/artwork/grade_11/noses.png
+    image_path: /assets/artwork/grade_11/noses.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/ear.png
+    image_path: /assets/artwork/grade_11/ear.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/ears.png
+    image_path: /assets/artwork/grade_11/ears.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/mouth.png
+    image_path: /assets/artwork/grade_11/mouth.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/mouths.png
+    image_path: /assets/artwork/grade_11/mouths.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/hairs.png
+    image_path: /assets/artwork/grade_11/hairs.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/hair.png
+    image_path: /assets/artwork/grade_11/hair.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/einstein_rough.png
+    image_path: /assets/artwork/grade_11/einstein_rough.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/cup.png
+    image_path: /assets/artwork/grade_11/cup.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/globe.png
+    image_path: /assets/artwork/grade_11/globe.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/hut.png
+    image_path: /assets/artwork/grade_11/hut.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/michelangelo.png
+    image_path: /assets/artwork/grade_11/michelangelo.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_11/war_rough.png
+    image_path: /assets/artwork/grade_11/war_rough.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
+    # grade 12
+  - url: /assets/artwork/grade_11/noses.png
+    image_path: /assets/artwork/grade_11/noses.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
