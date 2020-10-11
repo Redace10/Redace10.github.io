@@ -82,6 +82,12 @@ gallery:
     image_path: /assets/artwork/typography.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
+
+    # grade 9
+  - url: /assets/artwork/grade_9/nixon.png
+    image_path: /assets/artwork/grade_9/nixon.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
