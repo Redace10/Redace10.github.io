@@ -266,8 +266,146 @@ gallery:
     title: "Image 3 title caption"
 
     # grade 12
-  - url: /assets/artwork/grade_11/noses.png
-    image_path: /assets/artwork/grade_11/noses.png
+  - url: /assets/artwork/grade_12/person.png
+    image_path: /assets/artwork/grade_12/person.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/brebeuf.png
+    image_path: /assets/artwork/grade_12/brebeuf.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/arm_wrestle.png
+    image_path: /assets/artwork/grade_12/arm_wrestle.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/hero.png
+    image_path: /assets/artwork/grade_12/hero.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/mask.png
+    image_path: /assets/artwork/grade_12/mask.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/octopus.png
+    image_path: /assets/artwork/grade_12/octopus.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/detailed_jesus.png
+    image_path: /assets/artwork/grade_12/detailed_jesus.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/water_cup.png
+    image_path: /assets/artwork/grade_12/water_cup.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/tree.png
+    image_path: /assets/artwork/grade_12/tree.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/village.png
+    image_path: /assets/artwork/grade_12/village.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/human_body.png
+    image_path: /assets/artwork/grade_12/human_body.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/messi_typo.png
+    image_path: /assets/artwork/grade_12/messi_typo.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/steve_jobs.png
+    image_path: /assets/artwork/grade_12/steve_jobs.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/luffy.png
+    image_path: /assets/artwork/grade_12/luffy.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/picasso.png
+    image_path: /assets/artwork/grade_12/picasso.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
+  - url: /assets/artwork/grade_12/sketch_note.png
+    image_path: /assets/artwork/grade_12/sketch_note.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/sketch_note_2.png
+    image_path: /assets/artwork/grade_12/sketch_note_2.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/sketch_note_3.png
+    image_path: /assets/artwork/grade_12/sketch_note_3.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/surrealism.png
+    image_path: /assets/artwork/grade_12/surrealism.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/skulls.png
+    image_path: /assets/artwork/grade_12/skulls.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/pelvis.png
+    image_path: /assets/artwork/grade_12/pelvis.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/girl_imagination.png
+    image_path: /assets/artwork/grade_12/girl_imagination.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/creative_sketch.png
+    image_path: /assets/artwork/grade_12/creative_sketch.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/christmas_sketch.png
+    image_path: /assets/artwork/grade_12/christmas_sketch.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/building_idea.png
+    image_path: /assets/artwork/grade_12/building_idea.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/building_idea_2.png
+    image_path: /assets/artwork/grade_12/building_idea_2.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/building_idea_3.png
+    image_path: /assets/artwork/grade_12/building_idea_3.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/building_idea_4.png
+    image_path: /assets/artwork/grade_12/building_idea_4.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/building_idea_5.png
+    image_path: /assets/artwork/grade_12/building_idea_5.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/building_idea_6.png
+    image_path: /assets/artwork/grade_12/building_idea_6.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
+  - url: /assets/artwork/grade_12/building_idea_7.png
+    image_path: /assets/artwork/grade_12/building_idea_7.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/art_show.png
+    image_path: /assets/artwork/grade_12/art_show.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/instrument.png
+    image_path: /assets/artwork/grade_12/instrument.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/neo.png
+    image_path: /assets/artwork/grade_12/neo.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_12/impression_art.png
+    image_path: /assets/artwork/grade_12/impression_art.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
