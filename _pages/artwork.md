@@ -88,6 +88,90 @@ gallery:
     image_path: /assets/artwork/grade_9/nixon.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/giver.png
+    image_path: /assets/artwork/grade_9/giver.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/clover_tree.png
+    image_path: /assets/artwork/grade_9/clover_tree.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/hammer.png
+    image_path: /assets/artwork/grade_9/hammer.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/plant.png
+    image_path: /assets/artwork/grade_9/plant.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/hand1.png
+    image_path: /assets/artwork/grade_9/hand1.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/hand2.png
+    image_path: /assets/artwork/grade_9/hand2.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/hand3.png
+    image_path: /assets/artwork/grade_9/hand3.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/ball.png
+    image_path: /assets/artwork/grade_9/ball.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/balls.png
+    image_path: /assets/artwork/grade_9/balls.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/halloween.png
+    image_path: /assets/artwork/grade_9/halloween.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/vase.png
+    image_path: /assets/artwork/grade_9/vase.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/minions.png
+    image_path: /assets/artwork/grade_9/minions.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/apple.png
+    image_path: /assets/artwork/grade_9/apple.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/orange.png
+    image_path: /assets/artwork/grade_9/orange.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/room_warm.png
+    image_path: /assets/artwork/grade_9/room_warm.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/room_cold.png
+    image_path: /assets/artwork/grade_9/room_cold.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/sunset_sketch.png
+    image_path: /assets/artwork/grade_9/sunset_sketch.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/jesus_born.png
+    image_path: /assets/artwork/grade_9/jesus_born.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/pov_practice.png
+    image_path: /assets/artwork/grade_9/pov_practice.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/pov_room.png
+    image_path: /assets/artwork/grade_9/pov_room.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/artwork/grade_9/pov_building.png
+    image_path: /assets/artwork/grade_9/pov_building.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
