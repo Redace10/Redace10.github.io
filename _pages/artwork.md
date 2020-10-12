@@ -1,12 +1,7 @@
 ---
 permalink: /artwork/
 title: "Artwork"
-categories:
-  - Post Formats
-tags:
-  - gallery
-  - Post Formats
-  - tiled
+
 gallery:
   - url: /assets/artwork/me.jpg
     image_path: /assets/artwork/me.jpg
@@ -20,7 +15,6 @@ gallery:
     image_path: /assets/artwork/tree.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
-
   - url: /assets/artwork/back page good.jpg
     image_path: /assets/artwork/back page good.jpg
     alt: "placeholder image 3"
@@ -49,11 +43,6 @@ gallery:
     image_path: /assets/artwork/link.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
-  - url: /assets/artwork/me.jpg
-    image_path: /assets/artwork/me.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-
   - url: /assets/artwork/messi.jpg
     image_path: /assets/artwork/messi.jpg
     alt: "placeholder image 3"
@@ -83,7 +72,7 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 
-    # grade 9
+gallery_grade_9:
   - url: /assets/artwork/grade_9/nixon.png
     image_path: /assets/artwork/grade_9/nixon.png
     alt: "placeholder image 3"
@@ -173,7 +162,7 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 
-    # grade 10
+gallery_grade_10:
   - url: /assets/artwork/grade_10/slogan_idea.png
     image_path: /assets/artwork/grade_10/slogan_idea.png
     alt: "placeholder image 3"
@@ -211,7 +200,7 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 
-    # grade 11
+gallery_grade_11:
   - url: /assets/artwork/grade_11/noses.png
     image_path: /assets/artwork/grade_11/noses.png
     alt: "placeholder image 3"
@@ -265,7 +254,7 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 
-    # grade 12
+gallery_grade_12:
   - url: /assets/artwork/grade_12/person.png
     image_path: /assets/artwork/grade_12/person.png
     alt: "placeholder image 3"
@@ -410,4 +399,72 @@ gallery:
     title: "Image 3 title caption"
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery %}
+
+<!-- <style>
+    .artwork a {float: left; display: block; margin: 0 0 1% 1%; width: 30%;}
+</style> -->
+
+<style>
+    /* .artwork a {overflow: auto; margin-left: -1%!important;} */
+    .artwork a {float: middle; display: block; margin: 0 0 3% 3%; width: 30%;}
+    /* .artwork a {text-align: center; text-decoration: none!important; color: #777;} */
+    /* .artwork a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .artwork a img {width: 100%; display: block;} */
+</style>
+
+<details>
+<ul class="artwork">
+  {% for image in page.gallery_grade_12 %}
+    <a href="{{ image.image_path }}">
+    <img 
+        src="{{ image.image_path }}" 
+        alt="{{ image.title}}"
+        >
+    </a>
+  {% endfor %}
+</ul>
+<summary>Grade 12</summary>
+</details>
+
+{% capture details %}
+<ul class="artwork">
+  {% for image in page.gallery_grade_11 %}
+    <a href="{{ image.image_path }}">
+    <img 
+        src="{{ image.image_path }}" 
+        alt="{{ image.title}}"
+        >
+    </a>
+  {% endfor %}
+</ul>
+{% endcapture %}
+{% capture summary %}Grade 11{% endcapture %}{% include details.html %}
+
+{% capture details %}
+<ul class="artwork">
+  {% for image in page.gallery_grade_10 %}
+    <a href="{{ image.image_path }}">
+    <img 
+        src="{{ image.image_path }}" 
+        alt="{{ image.title}}"
+        >
+    </a>
+  {% endfor %}
+</ul>
+{% endcapture %}
+{% capture summary %}Grade 10{% endcapture %}{% include details.html %}
+
+{% capture details %}
+<ul class="artwork">
+  {% for image in page.gallery_grade_9 %}
+    <a href="{{ image.image_path }}">
+    <img 
+        src="{{ image.image_path }}" 
+        alt="{{ image.title}}"
+        >
+    </a>
+  {% endfor %}
+</ul>
+{% endcapture %}
+{% capture summary %}Grade 9{% endcapture %}{% include details.html %}
